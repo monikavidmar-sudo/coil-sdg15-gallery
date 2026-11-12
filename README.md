@@ -1,1 +1,3 @@
 # coil-sdg15-gallery
+Pri najini spletni galeriji sva vse delo opravljali skupaj na enem računalniku, včasih na dveh ampak še vedno skupaj. Tako da sva v bistvu obe naredile in preizkusile vse. O odločitvah, delu, organizaciji in izgledu spletne strani sva se pogovorile in odločitve sprejele skupaj. Večkrat sva se dobile po šoli in stran dodelale.
+Na koncu, pa je vsaka sama dodala še svoje slike in opise. Vsaka je dodala šest svojih fotografij, ki jih je posnela v okolici svojega kraja. Poskusili sva, da so bile čim bolj povezane z najinim ciljem, ki sva si ga izbrale - 15.SDG cilj - Življenje na kopnem. 
